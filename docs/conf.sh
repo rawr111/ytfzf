@@ -1,5 +1,6 @@
 # This is a sample config file, refer to ytfzf(5) for more information
 #wowowow
+#rfsda
 #fsdfa
 #some change in file #3
 # In the previous version of ytfzf this file had all the examples, with all defaults set,
